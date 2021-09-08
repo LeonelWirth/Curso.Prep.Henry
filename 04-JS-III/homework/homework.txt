@@ -1,0 +1,5 @@
+Explicación de conceptos:
+
+Arrays: o tambien conocidos como arreglos, es una especie de vector, que en cada una de sus componentes puede contener cualquier tipo de informacion, variables strings, funciones, enteros, booleanos, etc. Este para ser utilizado se llama en funcion de sus componentes. EJ: var array = []; array[1] = 1; array[2]='Leo'; array[3]= function...;
+Luego para usarlo los llamo, EJ: array[3]();
+Los arrays cuentan con funciones incorporadas como array.length que me devuelve la longitud del array, array.push(), el cual añade algo al final del array y array.pop() la cual borra la ultima componente del array y la asigna a quien la llame.

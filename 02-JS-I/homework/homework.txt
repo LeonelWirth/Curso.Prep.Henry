@@ -1,0 +1,11 @@
+Definicion de conceptos
+
+Variables: una variable es un contenedor de informacion que encuentra ubicado en un espacio de memoria. Este puede ser leido y redefinido (cambiando su valor). A su vez, las variables poseen un nombre identificador definido pro el usuario. Existen distintos tipos de variables en funcion del tipo de informacion que se desea almacenar, pero en principio esto es indistinto para JS.
+
+Strings: un string es la herramienta que se usa para almacenar palabras cuando se ejecuta un codigo, cada letra es un caracter en ascii y se almacenan en espacios contiguos de memoria.
+
+Funciones(argumentos,return): una funcion es un bloque de codigo que se escribe de manera tal de resolver una tarea o proposito de manera general. Este usa argumentos de entrada que son variables utilizadas dentro de la funcion y puede retornar valores.
+
+Declaraciones if: la declaracion if es un bloque de codigo que busca que se ejecuten ciertas operaciones solo si cierta afirmacion es verdadera.
+
+Valores booleanos(true,false): las variables booleanas son aquellas que solo pueden representar 2 cosas, algo verdadero o algo falso. Se utilizan mucho en la logica y ocupan un bit en la memoria.

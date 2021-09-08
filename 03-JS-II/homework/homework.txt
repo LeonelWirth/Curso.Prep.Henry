@@ -1,0 +1,5 @@
+Explicacion de conceptos:
+
+for: el bucle for es una estructura de codigo que sirve para realizar cierta cantidad de iteraciones de un codigo escrito, tiene una variable de control que por lo general es "i" o "j" que se define un valor inicial, un valor final y el paso entre valores de las iteraciones. Notar que la variable de control puede incrementar como disminuir.
+
+&&,||,!: && es el AND lógico, || es el OR lógico y ! es un negador lógico. Los 3 son operadores logicos que arrojan una expresion booleana. El operador AND devuelve true si y solo si ambas expresiones que ingresan son true. El operador OR devuelve true si y solo si alguna de las expresiones de entrada es true. Por ultimo el operador negador niega la expresion booleana que ingresa, si es true devuelve false y al reves.
