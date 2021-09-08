@@ -1,0 +1,5 @@
+Explicaciones:
+
+prototype: es un metodo que se establece en una clase, al cual se puede acceder desde cualquier objeto dentro de la clase. Esto sirve para crear el metodo una unica vez, en vez de hacerlo por cada objeto distinto.
+
+Constructors (de Clases): son basicamente funciones para construir objetos a partir de una plantilla de propiedades.
